@@ -1,0 +1,14 @@
+Meu-Portfolio/
+ ┣ Projetos-Academicos/
+ ┃ ┣ Media-de-Numeros/
+ ┃ ┃ ┣ main.c
+ ┃ ┃ ┗ README.md
+ ┃ ┗ Sistema-de-Senhas/
+ ┃    ┣ main.cpp
+ ┃    ┗ README.md
+ ┣ Projetos-Pessoais/
+ ┃ ┗ Calculadora-em-C/
+ ┃    ┣ calculadora.c
+ ┃    ┗ README.md
+ ┣ README.md
+ ┗ LICENSE
