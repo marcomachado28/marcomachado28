@@ -16,7 +16,7 @@ Bem-vindo ao meu portfólio digital! Aqui você encontrará informações sobre 
 
 ## 📄 Currículo
 
-Você pode acessar meu currículo completo [aqui](https://drive.google.com/file/d/1K4B5LxsKPMCLDWqlHj7X10AFUKO8lXH1/view?usp=drive_link).
+Você pode acessar meu currículo completo [aqui](https://drive.google.com/file/d/1K4B5LxsKPMCLDWqlHj7X10AFUKO8lXH1/view?usp=drive_link). [aqui] (https://studio--studio-9314813833-ffeb4.us-central1.hosted.app/).
 
 ---
 
