@@ -47,5 +47,31 @@ Descrição: [Banco de Dados, Algoritmos e Estruturas de Dados, Inteligência Ar
 - Adaptabilidade: Comunicação, Trabalho em equipe, Proatividade
 
 ---
- 
+
+ ## 🎓 Projetos Acadêmicos
+Projetos feitos em disciplinas da faculdade.
+
+| Projeto | Linguagem | Descrição |
+|----------|------------|------------|
+| [Média de Números](https://github.com/user-attachments/files/22991886/medianumerosreais.pdf) | C++ | Calcula a média de N números reais. |
+
+---
+
+## 💡 Projetos Pessoais
+Projetos feitos por interesse próprio.
+
+| Projeto | Linguagem | Descrição |
+|----------|------------|------------|
+| [Sistema de Senhas](https://github.com/user-attachments/files/22991885/senhasupersegura.2.pdf) | C++ | Sistema simples de login com senha e limite de tentativas. |
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- C / C++
+- Git e GitHub
+- Visual Studio Code / Dev-C++
+- Markdown
+
+---  
+
 - Portifólio constatemente atualizado com novas conquistas.
