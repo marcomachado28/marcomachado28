@@ -47,5 +47,5 @@ Descrição: [Banco de Dados, Algoritmos e Estruturas de Dados, Inteligência Ar
 - Adaptabilidade: Comunicação, Trabalho em equipe, Proatividade
 
 ---
-
+ 
 - Portifólio constatemente atualizado com novas conquistas.
