@@ -9,7 +9,7 @@ Bem-vindo ao meu portfólio digital! Aqui você encontrará informações sobre 
 - **Nome:** [Marco Túlio de Sousa Machado]
 - **Email:** [marcotuliosousamachado@gmail.com]
 - **LinkedIn:** [www.linkedin.com/in/marco-túlio-de-sousa-machado-893990384](www.linkedin.com/in/marco-túlio-de-sousa-machado-893990384)
-- **GitHub:** [github.com/marcot](https://github.com/marcot)]
+- **GitHub:** [github.com/marcot-hash](https://github.com/marcot)]
 - **Localização:** [Sobradinho, Distrito Federal]
 
 ---
