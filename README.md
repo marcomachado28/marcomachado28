@@ -48,10 +48,4 @@ Descrição: [Banco de Dados, Algoritmos e Estruturas de Dados, Inteligência Ar
 
 ---
 
-## 📬 Contato
-
-Quer conversar? Entre em contato por [email](marcotuliosousamachado@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/marco-túlio-de-sousa-machado).
-
----
-
 - Portifólio constatemente atualizado com novas conquistas.
