@@ -6,9 +6,9 @@ Bem-vindo ao meu portfólio digital! Aqui você encontrará informações sobre 
 
 ## 👤 Perfil Pessoal
 
-- **Nome:** [Marco Túlio de Sousa Machado]
-- **Email:** [marcotuliosousamachado@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/marco-túlio-de-sousa-machado-893990384](https://www.linkedin.com/in/marco-t%C3%BAlio-de-sousa-machado-893990384/)
+- **Nome:** [ Marco Túlio de Sousa Machado ]
+- **Email:** [ marcotuliosousamachado@gmail.com ]
+- **LinkedIn:** [ www.linkedin.com/in/marco-túlio-de-sousa-machado-893990384](https://www.linkedin.com/in/marco-t%C3%BAlio-de-sousa-machado-893990384/) ]
 - **GitHub:** [[https://github.com/marcomachado28/](https://github.com/marcomachado28/marcomachado28/edit/main/README.md) ]
 - **Localização:** [Sobradinho, Distrito Federal]
 
