@@ -1,4 +1,4 @@
-# 🌐 PortfolioHUB
+# 🌐 PortfólioHUB
 
 Bem-vindo ao meu portfólio digital! Aqui você encontrará informações sobre minha trajetória acadêmica e profissional, além de projetos desenvolvidos e outras conquistas.
  
