@@ -23,8 +23,8 @@ Você pode acessar meu currículo completo [aqui](https://drive.google.com/file/
 ## 🎓 Experiência Acadêmica
 
 **[Centro Universitário de Brasília (CEUB)]** – *[Ciência da Computação]*  
-📅 [2025] - [Cursando]  
-Descrição: [Banco de Dados, Algoritmos e Estruturas de Dados, Inteligência Artificial e Ciência de Dados e etc.]
+📅 [2026] - [Cursando]  
+Descrição: [Java, Algoritmos e Estruturas de Dados, Inteligência Artificial e Ciência de Dados, HTML, C++ e etc.]
 
 ---
 
