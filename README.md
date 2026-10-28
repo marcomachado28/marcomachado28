@@ -32,6 +32,9 @@ Descrição: [Java, Algoritmos e Estruturas de Dados, Inteligência Artificial e
 **[Defensoria Pública da União]** – *[Estagiário]*  
 📅 [Jan/2023 – Dez/2024]  
 
+**[Auxiliar administrativo]** – *[Jovem Aprendiz]*  
+📅 [Set/2026 – Atualmente]  
+
 ---
 
 ## 🧠 Habilidades
