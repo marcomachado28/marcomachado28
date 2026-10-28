@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio digital! Aqui você encontrará informações sobre 
 ## 👤 Perfil Pessoal
 
 - **Nome:** [ Marco Túlio de Sousa Machado ]
-- **Email:** [ marcotuliosousamachado@gmail.com ]
+- **Email:** [ marcotuliodesousamachado@gmail.com ]
 - **LinkedIn:** [[ www.linkedin.com/in/marco-túlio-de-sousa-machado-893990384](https://www.linkedin.com/in/marco-t%C3%BAlio-de-sousa-machado-893990384/) ]
 - **Localização:** [ Brasília, Distrito Federal ]
 
